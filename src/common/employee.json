@@ -1,0 +1,73 @@
+{
+  "employee": [
+    {
+      "firstName": "John",
+      "lastName": "jerry",
+      "purchasedProducts": [
+        {
+          "productName": "espro pana",
+          "quantity": 10,
+          "unitPrice": 120
+        },
+        {
+          "productName": "pono pana",
+          "quantity": 2,
+          "unitPrice": 12
+        },
+        {
+          "productName": "pana",
+          "quantity": 9,
+          "unitPrice": 4
+        }
+      ]
+    },
+    {
+      "firstName": "Mery",
+      "lastName": "john",
+      "purchasedProducts": [
+        {
+          "productName": "espro kosh",
+          "quantity": 16,
+          "unitPrice": 3
+        },
+        {
+          "productName": "sana jel",
+          "quantity": 4,
+          "unitPrice": 14
+        }
+      ]
+    },
+    {
+      "firstName": "Roshi",
+      "lastName": "josh",
+      "purchasedProducts": [
+        {
+          "productName": "Green Tea",
+          "quantity": 5,
+          "unitPrice": 8
+        },
+        {
+          "productName": "Tea",
+          "quantity": 23,
+          "unitPrice": 5
+        }
+      ]
+    },
+    {
+      "firstName": "Shelly",
+      "lastName": "Winkler",
+      "purchasedProducts": [
+        {
+          "productName": "Caffe Americano",
+          "quantity": 4,
+          "unitPrice": 55
+        },
+        {
+          "productName": "Capacino",
+          "quantity": 24,
+          "unitPrice": 10
+        }
+      ]
+    }
+  ]
+}
